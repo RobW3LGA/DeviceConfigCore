@@ -1,4 +1,4 @@
-# Device Config Core Library
+# Device Config Core Library [![Build Status](https://travis-ci.com/RobW3LGA/DeviceConfigCore.svg?branch=master)](https://travis-ci.com/RobW3LGA/DeviceConfigCore)
 
 ## Programmatic network access (TypeScript)
 
