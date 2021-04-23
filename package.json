@@ -10,7 +10,7 @@
     "start": "npx tsc && npm run copyFiles && node ./dist/src/entry.point.js",
     "test": "jest",
     "test:coverage": "npm test -- --coverage",
-    "coveralls": "jest --coverage && coveralls < coverage/lcov.info"
+    "coveralls": "jest --coverage && coveralls < tests/coverage/lcov.info"
   },
   "repository": {
     "type": "git",
