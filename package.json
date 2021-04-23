@@ -9,8 +9,7 @@
     "copyFiles": "npm run copy:ssh2shell && npm run copy:config",
     "start": "npx tsc && npm run copyFiles && node ./dist/src/entry.point.js",
     "test": "jest",
-    "test:coverage": "npm test -- --coverage",
-    "coveralls": "jest --coverage && coveralls < coverage/lcov.info"
+    "test:coverage": "npm test -- --coverage"
   },
   "repository": {
     "type": "git",
